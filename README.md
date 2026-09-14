@@ -95,3 +95,7 @@ page. Required format: `PassengerId,Survived`, 418 rows.
   folder structure above.
 - To try other models, call `run(model_key="gb")` or `run(model_key="rf")`
   instead of the default `logreg`.
+
+## License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).  

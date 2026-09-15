@@ -1,5 +1,10 @@
 # Titanic Competition
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Predicts passenger survival on the Titanic (Kaggle's classic binary
 classification competition) using two notebooks: one for exploration,
 one for modeling.

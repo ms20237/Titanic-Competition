@@ -20,8 +20,8 @@ titanic-project/
 │   └── test.csv
 ├── 01_EDA.ipynb
 ├── train_model.ipynb
-├── eda_output/        ← created automatically by 01_EDA.ipynb
-└── outputs/            ← created automatically by train_model.ipynb
+├── eda_output/               ← created automatically by 01_EDA.ipynb
+└── outputs/                  ← created automatically by train_model.ipynb
 ```
 
 ## 1. Get the data
